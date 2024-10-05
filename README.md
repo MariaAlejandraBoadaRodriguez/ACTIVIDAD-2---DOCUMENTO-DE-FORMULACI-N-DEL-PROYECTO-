@@ -301,7 +301,8 @@ La matriz se organiza en una tabla con cuatro niveles de probabilidad (Baja, Med
 
 ## Cronograma
 
-*(Aquí se puede incluir las imágenes del cronograma que subiste previamente.)*
+![Cronograma 1](assets/cronograma_1.jpg)
+![Cronograma 2](assets/cronograma_2.jpg)
 
 ---
 
